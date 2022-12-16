@@ -1,0 +1,17 @@
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\bin\Debug\net6.0\ArandaPrueba.Infraestructure.deps.json
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\bin\Debug\net6.0\ArandaPrueba.Infraestructure.runtimeconfig.json
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\bin\Debug\net6.0\ArandaPrueba.Infraestructure.dll
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\bin\Debug\net6.0\ArandaPrueba.Infraestructure.pdb
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\bin\Debug\net6.0\ArandaPrueba.Core.dll
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\bin\Debug\net6.0\ArandaPrueba.Core.pdb
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.AssemblyInfo.cs
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.csproj.CopyComplete
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.dll
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\refint\ArandaPrueba.Infraestructure.dll
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.pdb
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ArandaPrueba.Infraestructure.genruntimeconfig.cache
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Infraestructure\obj\Debug\net6.0\ref\ArandaPrueba.Infraestructure.dll

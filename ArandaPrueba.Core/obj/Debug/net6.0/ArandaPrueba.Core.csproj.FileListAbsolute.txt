@@ -1,0 +1,12 @@
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\bin\Debug\net6.0\ArandaPrueba.Core.deps.json
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\bin\Debug\net6.0\ArandaPrueba.Core.dll
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\bin\Debug\net6.0\ArandaPrueba.Core.pdb
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ArandaPrueba.Core.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ArandaPrueba.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ArandaPrueba.Core.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ArandaPrueba.Core.AssemblyInfo.cs
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ArandaPrueba.Core.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ArandaPrueba.Core.dll
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\refint\ArandaPrueba.Core.dll
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ArandaPrueba.Core.pdb
+C:\Users\SoporteTI\Documents\Visual Studio 2022\Projects\ArandaPrueba\ArandaPrueba.Core\obj\Debug\net6.0\ref\ArandaPrueba.Core.dll

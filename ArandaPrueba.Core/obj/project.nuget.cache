@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "55UODp84IVPjQ8cieVwcgjLr6rmunifzfYE4VaBwyV0pBILvFlyZcXymf4vdFPJs+5g8+xFyySmDVbpplYvOrw==",
+  "dgSpecHash": "C9m5EtwIfiZQiIDc2t1RxqMNTCAoMJiMeVrGmpdZsR+hWFh0oz1NY4IunNHXZGw5HH2NpB3ldYyNwV4p4/W72w==",
   "success": true,
   "projectFilePath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\SoporteTI\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

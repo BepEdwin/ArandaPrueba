@@ -27,7 +27,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj": {
+                "projectPath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj"
+              },
+              "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Infraestructure\\ArandaPrueba.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Infraestructure\\ArandaPrueba.Infraestructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -43,6 +50,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -60,6 +71,142 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj",
+        "projectName": "ArandaPrueba.Core",
+        "projectPath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj",
+        "packagesPath": "C:\\Users\\SoporteTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Infraestructure\\ArandaPrueba.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Infraestructure\\ArandaPrueba.Infraestructure.csproj",
+        "projectName": "ArandaPrueba.Infraestructure",
+        "projectPath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Infraestructure\\ArandaPrueba.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\SoporteTI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SoporteTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj": {
+                "projectPath": "C:\\Users\\SoporteTI\\Documents\\Visual Studio 2022\\Projects\\ArandaPrueba\\ArandaPrueba.Core\\ArandaPrueba.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
