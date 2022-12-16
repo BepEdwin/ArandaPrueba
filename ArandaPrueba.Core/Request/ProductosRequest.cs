@@ -10,6 +10,6 @@ namespace ArandaPrueba.Core.Request
 
         public decimal IdCategoria { get; set; }
 
-        public string? Imagen { get; set; }
+        public string? ImagenB64 { get; set; }
     }
 }

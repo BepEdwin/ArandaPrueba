@@ -51,9 +51,9 @@ namespace ArandaPrueba.Infraestructure.Repositories
             try
             {
                 TbProductos record;
-                if (producto.Imagen != null)
+                if (producto.ImagenB64 != null)
                 {
-                    byte[] imagen = Convert.FromBase64String(producto.Imagen);
+                    byte[] imagen = Convert.FromBase64String(producto.ImagenB64);
                     record = new()
                     {
                         Nombre = producto.Nombre,

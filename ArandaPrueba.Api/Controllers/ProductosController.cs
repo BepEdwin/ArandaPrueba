@@ -3,7 +3,6 @@ using ArandaPrueba.Api.Responses;
 using ArandaPrueba.Core.Entities;
 using ArandaPrueba.Core.Interfaces;
 using ArandaPrueba.Core.Request;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
